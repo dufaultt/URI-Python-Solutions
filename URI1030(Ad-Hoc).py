@@ -1,4 +1,4 @@
-#Tristan Dufault -Work in progress
+#Tristan Dufault -Works but doesn't complete within time limit, appears to be an issue with Python solutions to this problem
 #Problem link: https://www.urionlinejudge.com.br/judge/en/problems/view/1030
 iterate = int(input())
 num = 1
