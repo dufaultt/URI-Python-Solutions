@@ -1,6 +1,6 @@
 ##Tristan Dufault 2019/06/28
 ##Problem Link: https://www.urionlinejudge.com.br/judge/en/problems/view/1214
-
+ 
 iterate = int(input())
 
 while(iterate > 0):
