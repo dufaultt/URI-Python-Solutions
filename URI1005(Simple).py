@@ -1,6 +1,6 @@
 ##Problem Link: https://www.urionlinejudge.com.br/judge/en/problems/view/1005
 
-x = float(input())
+x = float(input()) 
 y = float(input())
 
 
