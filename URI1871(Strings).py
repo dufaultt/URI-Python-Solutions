@@ -1,4 +1,4 @@
-#Tristan Dufault 2019-12-30
+#Tristan Dufault 2019-12-31
 #Problem Link: https://www.urionlinejudge.com.br/judge/en/problems/view/1871
 
 inp = input()
