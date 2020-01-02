@@ -22,8 +22,7 @@ while (inp != 'FIM'):
             win = len(inpl[0])
         #end if
     else:
-        if (inpl[0] not in namesn):
-            namesn.append(inpl[0])
+        namesn.append(inpl[0])
         #end if
     #end if
 
