@@ -1,6 +1,6 @@
 #Tristan Dufault 2020-01-09
 #Problem Link: https://www.urionlinejudge.com.br/judge/en/problems/view/1216
-
+ 
 count = 0
 aggr = 0
 
