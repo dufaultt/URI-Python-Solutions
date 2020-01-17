@@ -1,7 +1,7 @@
 #Tristan Dufault 2020-01-13
 #Problem Link: https://www.urionlinejudge.com.br/judge/en/problems/view/1441 
 
-n = int(input())
+n = int(input()) 
 
 
 while (n != 0):
