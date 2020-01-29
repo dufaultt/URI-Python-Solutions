@@ -6,7 +6,7 @@ greetlist = ['Feliz Natal!','Frohliche Weihnachten!','Frohe Weihnacht!','Chuk Su
 
 lenc = len(countrlist)
 leng = len(greetlist) 
-
+ 
 
 while True:
     try:
