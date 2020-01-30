@@ -8,7 +8,7 @@ lenc = len(countrlist)
 leng = len(greetlist) 
  
 
-while True:
+while True: 
     try:
         inp = input()
         flag = 0
