@@ -10,7 +10,7 @@ leng = len(greetlist)
 
 while True: 
     try:
-        inp = input()
+        inp = input() 
         flag = 0
 
         for i in range(lenc):
